@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% load static %}
+
+{%block content %}
+    <link rel="stylesheet" href="{% static 'css/basic.css' %}">
+  <div class="container" ng-controller="index_controller" ng-init="init({{gainer_data}},{{loser_data}})">
+      {% verbatim %}
+    <div class="row">
+		<form role="form" class="col-md-9 go-right">
+            <span class = "label label-success">Gainer Table</span>
+            <table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%"
+             >
+        <thead>
+            <tr>
+                <th>Symbol</th>
+                <th>LTP</th>
+                <th>%
+                Change</th>
+                <th>Traded Qty</th>
+                <th>Traded Value (in Lakhs)</th>
+                <th>Open</th>
+                <th>High</th>
+                <th>Low</th>
+                <th>Prev. Close</th>
+                <th>Latest Ex Date</th>
+                <th>CA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="nifty_gainer in gainer_data.data">
+                <td ng-bind="nifty_gainer.symbol"></td>
+                <td ng-bind="nifty_gainer.ltp"></td>
+                <td ng-bind="nifty_gainer.netPrice"></td>
+                <td ng-bind="nifty_gainer.tradedQuantity"></td>
+                <td ng-bind="nifty_gainer.turnoverInLakhs"></td>
+                <td ng-bind="nifty_gainer.openPrice"></td>
+                <td ng-bind="nifty_gainer.highPrice"></td>
+                <td ng-bind="nifty_gainer.lowPrice"></td>
+                <td ng-bind="nifty_gainer.previousPrice"></td>
+                <td ng-bind="nifty_gainer.lastCorpAnnouncementDate"></td>
+                <td ng-bind="nifty_gainer.lastCorpAnnouncement"></td>
+            </tr>
+        </tbody>
+    </table>
+            <span class = "label label-danger">Loser Table</span>
+            <table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>Symbol</th>
+                <th>LTP</th>
+                <th>%
+                Change</th>
+                <th>Traded Qty</th>
+                <th>Traded Value (in Lakhs)</th>
+                <th>Open</th>
+                <th>High</th>
+                <th>Low</th>
+                <th>Prev. Close</th>
+                <th>Latest Ex Date</th>
+                <th>CA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="nifty_loser in loser_data.data">
+                <td ng-bind="nifty_loser.symbol"></td>
+                <td ng-bind="nifty_loser.ltp"></td>
+                <td ng-bind="nifty_loser.netPrice"></td>
+                <td ng-bind="nifty_loser.tradedQuantity"></td>
+                <td ng-bind="nifty_loser.turnoverInLakhs"></td>
+                <td ng-bind="nifty_loser.openPrice"></td>
+                <td ng-bind="nifty_loser.highPrice"></td>
+                <td ng-bind="nifty_loser.lowPrice"></td>
+                <td ng-bind="nifty_loser.previousPrice"></td>
+                <td ng-bind="nifty_loser.lastCorpAnnouncementDate"></td>
+                <td ng-bind="nifty_loser.lastCorpAnnouncement"></td>
+            </tr>
+        </tbody>
+    </table>
+		</form>
+	</div>
+      {% endverbatim %}
+</div>
+    {{ response.status_code }}
+<script type="text/javascript" src="{% static "js/index.js" %}"></script>
+
+{% endblock %}

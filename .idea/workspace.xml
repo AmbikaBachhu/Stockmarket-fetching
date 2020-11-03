@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e884be2d-79f7-42a6-a322-1bfc50198317" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jaaQi49SIp79x2SlN6uQNyApRf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.sharemarkets">
+    <configuration name="nsedata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sharemarkets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nsedata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="play" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sharemarkets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/play.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sharee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sharemarkets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/share" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/share/sharee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sharemarkets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sharemarkets" type="Python.DjangoServer" factoryName="Django server">
+      <module name="sharemarkets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="sharemarkets.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.nsedata" />
+        <item itemvalue="Python.sharee" />
+        <item itemvalue="Python.play" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e884be2d-79f7-42a6-a322-1bfc50198317" name="Default Changelist" comment="" />
+      <created>1604044641445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604044641445</updated>
+      <workItem from="1604044648953" duration="1505000" />
+      <workItem from="1604047088312" duration="1533000" />
+      <workItem from="1604054761590" duration="1715000" />
+      <workItem from="1604056604835" duration="1710000" />
+      <workItem from="1604058447765" duration="1673000" />
+      <workItem from="1604062770687" duration="567000" />
+      <workItem from="1604064027609" duration="692000" />
+      <workItem from="1604074524263" duration="1722000" />
+      <workItem from="1604076416860" duration="1776000" />
+      <workItem from="1604078307444" duration="206000" />
+      <workItem from="1604121317086" duration="1732000" />
+      <workItem from="1604123112838" duration="1783000" />
+      <workItem from="1604124978400" duration="1758000" />
+      <workItem from="1604126945083" duration="1755000" />
+      <workItem from="1604128789682" duration="1760000" />
+      <workItem from="1604132104479" duration="1731000" />
+      <workItem from="1604134029412" duration="1241000" />
+      <workItem from="1604147501810" duration="264000" />
+      <workItem from="1604160871607" duration="127000" />
+      <workItem from="1604212564361" duration="876000" />
+      <workItem from="1604235191819" duration="1592000" />
+      <workItem from="1604244386077" duration="1739000" />
+      <workItem from="1604246200191" duration="1790000" />
+      <workItem from="1604248070819" duration="1283000" />
+      <workItem from="1604293795131" duration="1648000" />
+      <workItem from="1604295844910" duration="1732000" />
+      <workItem from="1604298809391" duration="1690000" />
+      <workItem from="1604300655117" duration="1821000" />
+      <workItem from="1604302547264" duration="1758000" />
+      <workItem from="1604304715539" duration="1725000" />
+      <workItem from="1604307037245" duration="1790000" />
+      <workItem from="1604308944237" duration="1536000" />
+      <workItem from="1604313977082" duration="1731000" />
+      <workItem from="1604315812552" duration="1200000" />
+      <workItem from="1604376843945" duration="1231000" />
+      <workItem from="1604379756290" duration="849000" />
+      <workItem from="1604384834679" duration="1561000" />
+      <workItem from="1604386715356" duration="1773000" />
+      <workItem from="1604388553047" duration="1798000" />
+      <workItem from="1604394700433" duration="370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="180" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604404526114">
+      <screen x="0" y="23" width="1366" height="695" />
+    </state>
+    <state x="409" y="180" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1366.695@0.23.1366.695" timestamp="1604404526114" />
+    <state x="421" y="124" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604308764507">
+      <screen x="0" y="23" width="1366" height="695" />
+    </state>
+    <state x="421" y="124" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1366.695@0.23.1366.695" timestamp="1604308764507" />
+    <state width="1324" height="305" key="GridCell.Tab.0.bottom" timestamp="1604404587149">
+      <screen x="0" y="23" width="1366" height="695" />
+    </state>
+    <state width="1324" height="305" key="GridCell.Tab.0.bottom/0.23.1366.695@0.23.1366.695" timestamp="1604404587149" />
+    <state width="1324" height="305" key="GridCell.Tab.0.center" timestamp="1604404587148">
+      <screen x="0" y="23" width="1366" height="695" />
+    </state>
+    <state width="1324" height="305" key="GridCell.Tab.0.center/0.23.1366.695@0.23.1366.695" timestamp="1604404587148" />
+    <state width="1324" height="305" key="GridCell.Tab.0.left" timestamp="1604404587147">
+      <screen x="0" y="23" width="1366" height="695" />
+    </state>
+    <state width="1324" height="305" key="GridCell.Tab.0.left/0.23.1366.695@0.23.1366.695" timestamp="1604404587147" />
+    <state width="1324" height="305" key="GridCell.Tab.0.right" timestamp="1604404587149">
+      <screen x="0" y="23" width="1366" height="695" />
+    </state>
+    <state width="1324" height="305" key="GridCell.Tab.0.right/0.23.1366.695@0.23.1366.695" timestamp="1604404587149" />
+    <state x="362" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1604394699705">
+      <screen x="0" y="23" width="1366" height="695" />
+    </state>
+    <state x="362" y="203" key="com.intellij.ide.util.TipDialog/0.23.1366.695@0.23.1366.695" timestamp="1604394699705" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sharemarkets$play.coverage" NAME="play Coverage Results" MODIFIED="1604306122968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sharemarkets$try.coverage" NAME="try Coverage Results" MODIFIED="1604394924067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sharemarkets$nsedata.coverage" NAME="nsedata Coverage Results" MODIFIED="1604388195423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sharemarkets$sharee.coverage" NAME="sharee Coverage Results" MODIFIED="1604315721248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/share" />
+  </component>
+</project>

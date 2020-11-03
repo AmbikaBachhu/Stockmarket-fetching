@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MongoConfiguration">
+    <option name="shellPath" value="$USER_HOME$/Downloads/mongodb-macos-x86_64-4.2.5/bin/mongod" />
+  </component>
+</project>
